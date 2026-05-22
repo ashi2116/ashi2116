@@ -13,19 +13,22 @@
 <td valign="top" width="60%">
 
 - 🎓 B.Tech CSE @ Vellore Institute of Technology, Bhopal
+  
 - ☁️ Cloud & DevOps Enthusiast — loves automating and deploying things
+  
 - 🐳 Working with Docker, AWS & Shell Scripting to build scalable systems
+  
 - 🌐 Portfolio: Coming Soon
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Fueled+by+Coffee+%26+Curiosity.;Cat+Interruptions+Loading...+🐾" />
+</td>
 
-<br>
+<td>
 
-<img src="./coding-cat.gif" width="420px" alt="Coding Cat Animation"/>
+<img src="coding-cat.gif" width="280"/>
 
-</div>
----
-
+</td>
+</tr>
+</table>
 ### 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashi-sugandhi-b92899250/)
