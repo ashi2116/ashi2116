@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ashi Sugandhi 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Learning+to+build%2C+building+to+learn+%7C+Software+Developer+%26+DevOps+Explorer+%7C+VIT+Bhopal+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Learning+to+build%2C+building+to+learn...;Software+Developer+%26+DevOps+Explorer;VIT+Bhopal+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 ---
