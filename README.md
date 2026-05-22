@@ -16,7 +16,14 @@
 - ☁️ Cloud & DevOps Enthusiast — loves automating and deploying things
 - 🐳 Working with Docker, AWS & Shell Scripting to build scalable systems
 - 🌐 Portfolio: Coming Soon
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78DA7&center=true&vCenter=true&width=435&lines=Code.+Create.+Repeat.;Fueled+by+Coffee+%26+Curiosity.;Cat+Interruptions+Loading...+🐾" />
 
+<br>
+
+<img src="./coding-cat.gif" width="420px" alt="Coding Cat Animation"/>
+
+</div>
 ---
 
 ### 🔗 Connect With Me
