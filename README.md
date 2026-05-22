@@ -1,17 +1,28 @@
 <h1 align="center">Hi, I'm Ashi Sugandhi 👋</h1>
 
 <p align="center">
-  Software Developer | DevOps & Cloud Enthusiast | VIT Bhopal
+  Learning to build, building to learn | Software Developer & DevOps Explorer | VIT Bhopal ☁️
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
+<table>
+<tr>
+<td>
+
 - 🎓 B.Tech CSE @ Vellore Institute of Technology, Bhopal
 - ☁️ Cloud & DevOps Enthusiast — loves automating and deploying things
 - 🐳 Working with Docker, AWS & Shell Scripting to build scalable systems
 - 🌐 Portfolio: Coming Soon
+
+</td>
+<td>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280px" />
+</td>
+</tr>
+</table>
 
 ---
 
