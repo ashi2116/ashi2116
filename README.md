@@ -8,11 +8,21 @@
 
 ### 🧑‍💻 About Me
 
+<table>
+<tr>
+<td valign="top" width="60%">
+
 - 🎓 B.Tech CSE @ Vellore Institute of Technology, Bhopal
 - ☁️ Cloud & DevOps Enthusiast — loves automating and deploying things
 - 🐳 Working with Docker, AWS & Shell Scripting to build scalable systems
 - 🌐 Portfolio: Coming Soon
 
+</td>
+<td valign="top" width="40%">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280px" />
+</td>
+</tr>
+</table>
 ---
 
 ### 🔗 Connect With Me
